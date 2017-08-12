@@ -41,7 +41,7 @@ print(maxlat, maxlong, minlat, minlong)
 # fig = plt.figure(1)
 # plt.plot(cat_track['Longitude'], cat_track['Latitude'], color='darkorange', linewidth=5, alpha=0.5)
 # mplleaflet.display(fig=fig, tiles='esri_aerial')
-# plt.show()
+# plt.show() 
 
 #
 m = Basemap(projection='merc', lat_0 = ((minlat + maxlat)/2.0), lon_0 = ((minlong + maxlong)/2.0),
