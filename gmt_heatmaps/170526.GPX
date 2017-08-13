@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<gpx>
+<metadata><author>KFPX3XEVY5SS1S1</author></metadata>
+  <trk>
+    <name>2017-05-26</name>
+    <trkseg>
+        <trkpt lat=" 52.4584333" lon="-001.9443200">
+          <ele>149.3</ele>
+          <time>2017-05-26T17:00:14Z</time>
+          <sat>5</sat>
+        </trkpt>
+        <trkpt lat=" 52.4584166" lon="-001.9443533">
+          <ele>143.8</ele>
+          <time>2017-05-26T17:00:24Z</time>
+          <sat>5</sat>
+        </trkpt>
+        <trkpt lat=" 52.4583966" lon="-001.9443500">
+          <ele>152.0</ele>
+          <time>2017-05-26T17:00:34Z</time>
+          <sat>5</sat>
+        </trkpt>
+        <trkpt lat=" 52.4583400" lon="-001.9441733">
+          <ele>180.5</ele>
+          <time>2017-05-26T17:00:44Z</time>
+          <sat>5</sat>
+        </trkpt>
+        <trkpt lat=" 52.4583216" lon="-001.9440950">
+          <ele>192.4</ele>
+          <time>2017-05-26T17:00:54Z</time>
+          <sat>5</sat>
+        </trkpt>
+        <trkpt lat=" 52.4583600" lon="-001.9441783">
+          <ele>173.2</ele>
+          <time>2017-05-26T17:01:04Z</time>
+          <sat>6</sat>
+        </trkpt>
+        <trkpt lat=" 52.4583667" lon="-001.9441817">
+          <ele>170.4</ele>
+          <time>2017-05-26T17:01:14Z</time>
+          <sat>6</sat>
+        </trkpt>
+        <trkpt lat=" 52.4583650" lon="-001.9441683">
+          <ele>170.7</ele>
+          <time>2017-05-26T17:01:24Z</time>
+          <sat>6</sat>
+        </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

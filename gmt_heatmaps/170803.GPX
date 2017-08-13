@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<gpx>
+<metadata><author>KFPX3XEVY5SS1S1</author></metadata>
+  <trk>
+    <name>2017-08-03</name>
+    <trkseg>
+        <trkpt lat=" 52.4585683" lon="-001.9442700">
+          <ele>188.2</ele>
+          <time>2017-08-03T00:31:26Z</time>
+          <sat>4</sat>
+        </trkpt>
+        <trkpt lat=" 52.4587700" lon="-001.9443716">
+          <ele>194.2</ele>
+          <time>2017-08-03T00:31:38Z</time>
+          <sat>4</sat>
+        </trkpt>
+        <trkpt lat=" 52.4586950" lon="-001.9443234">
+          <ele>195.8</ele>
+          <time>2017-08-03T00:31:48Z</time>
+          <sat>4</sat>
+        </trkpt>
+        <trkpt lat=" 52.4585550" lon="-001.9442883">
+          <ele>187.9</ele>
+          <time>2017-08-03T00:31:59Z</time>
+          <sat>3</sat>
+        </trkpt>
+        <trkpt lat=" 52.4584100" lon="-001.9440417">
+          <ele>183.7</ele>
+          <time>2017-08-03T00:33:25Z</time>
+          <sat>4</sat>
+        </trkpt>
+        <trkpt lat=" 52.4583800" lon="-001.9440150">
+          <ele>182.3</ele>
+          <time>2017-08-03T00:33:35Z</time>
+          <sat>3</sat>
+        </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
