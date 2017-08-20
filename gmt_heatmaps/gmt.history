@@ -1,10 +1,10 @@
 # GMT 5 Session common arguments shelf
 BEGIN GMT 5.4.0
-B	0
-J	u
+B	10
+J	M
 JM	M6i
 JU	U+29/6i
 Ju	u+29/1:1
-R	./Download_home_778784/getmapping_rgb_25cm_1941283/sp/sp0484_l2_250_02.jpg
-L	1
+R	-1.9466/-1.9392/52.454/52.4624
+L	4
 END
